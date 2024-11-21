@@ -9,7 +9,7 @@
 }
 
 body{
-    background: rgb(213, 213, 213);
+    background: rgb(40, 49, 45);
 }
 
 header{
@@ -50,7 +50,7 @@ header{
 
 /* Start of styling the buttons */
 button {
-    background-color: white;
+    background-color: rgb(41, 55, 182);
     color: black;
     padding: 10px 10px; 
     margin: 10px 10px;
@@ -60,7 +60,7 @@ button {
 }
 
 button:hover {
-    background-color: #f2f2f2; 
+    background-color: #f7f6f6; 
 }
 
 /* End of styling the buttons */
